@@ -5,6 +5,7 @@ This repository contains flutter example apps demonstrating features/functionali
 ## Examples
 * [Keypad](https://github.com/chinkysight/Flutter-Example-Applications/tree/master/keypad)
 * [Tic Tac Toe](https://github.com/chinkysight/Flutter-Example-Applications/tree/master/tic_tac_toe)
+* [Journal](https://github.com/chinkysight/Flutter-Example-Applications/tree/master/Journal)
 
 ### :heart: Found projects useful?
 
