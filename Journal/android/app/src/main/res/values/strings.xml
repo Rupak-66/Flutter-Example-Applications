@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+<string name="app_name">journal</string>
+<string name="facebook_app_id">786730598502782</string>
+<string name="fb_login_protocol_scheme">fb786730598502782</string>
+</resources>
